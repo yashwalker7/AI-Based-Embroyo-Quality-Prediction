@@ -1,0 +1,14 @@
+## 🧩 Requirements
+
+streamlit
+numpy
+pandas
+matplotlib
+scikit-learn
+scikit-image
+Pillow
+opencv-python
+joblib
+seaborn
+
+
