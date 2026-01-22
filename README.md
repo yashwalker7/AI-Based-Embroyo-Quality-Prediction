@@ -1,8 +1,8 @@
-# Endometrial-Receptivity-Analysis-ML
+# AI based Embryo Quality Prediction Model
 AI-driven Endometrial Receptivity Analysis (ERA) system to optimize embryo transfer timing and improve IVF success rates.
 
 
-#  Endometrial-Receptivity-Analysis-ML
+#  AI based Embryo Quality Prediction Model
 ### AI-based Endometrial Receptivity Analysis for Personalized IVF Success
 
 This project applies machine learning to endometrial gene expression data to predict the optimal embryo transfer window, aiming to increase implantation success rates and reduce IVF failures.
@@ -63,16 +63,15 @@ Expand dataset across different patient demographics
 
 
 👩‍⚕️ Authors
-  VAMSI REDDY  
-*Data Science / Machine Learning Researcher*  
+  Yash Vaman  
+*Data Science / Machine Learning Researcher*
+
+Collaborated and worked under supervison of AISpry, Hyderabad. 
 
 
 ---
 
-🧾 License
-This project is licensed under the **MIT License** – you are free to use, modify, and distribute it with proper attribution.
 
----
 
 💡 Acknowledgments
 - Data inspired by Endometrial Receptivity Analysis (ERA) studies  
